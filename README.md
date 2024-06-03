@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikhithaAnanth
+- 👋 Hi, I’m Nikhitha A
 - 👀 I’m interested in learning what ever my brain accepts
 - 🌱 I’m currently learning Django, Java, Python
 - 💞️ I’m looking to collaborate on Cyber Security
